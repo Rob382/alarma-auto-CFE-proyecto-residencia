@@ -1,7 +1,7 @@
 # alarma-auto-CFE-proyecto-residencia
 Producto de mi proyecto de residencia profesional para egresar de la carrera Ingeniería en Electrónica  y Comunicaciones
 
-El proyecto consta de un sistema de alarma automático para la empresa CFE el cual detecta actividad física en el recinto y automatiza el proceso manual que ya tienen instalado en la empresa para hacer el llamado a las autoridades al detectar una alarma.
+El proyecto consta del diseño de un sistema de alarma (hardware y software) automático para la empresa CFE el cual detecta actividad física en el recinto y automatiza el proceso manual que ya tienen instalado en la empresa para hacer el llamado a las autoridades al detectar una alarma.
 
 ### los objetivos logrados fueron los siguientes:
 Diseño e implementación de un prototipo funcional de un sistema de alarma automatizado, el cual cumple con las siguientes características: 
