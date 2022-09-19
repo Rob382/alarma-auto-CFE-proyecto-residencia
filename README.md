@@ -1,5 +1,5 @@
 # alarma-auto-CFE-proyecto-residencia
-Producto de mi proyecto de residencia profesional para egresar de la carrera Ingeniería en Electrónica y Comunicaciones (2020)
+Producto de mi proyecto de residencia profesional para egresar de la carrera Ingeniería en Electrónica y Comunicaciones (agosto 2019 - febrero 2020)
 
 El proyecto consta del diseño de un sistema de alarma (hardware y software) automático para la empresa CFE el cual detecta actividad física en el recinto y automatiza el proceso manual que ya tienen instalado en la empresa para hacer el llamado a las autoridades al detectar una alarma.
 
